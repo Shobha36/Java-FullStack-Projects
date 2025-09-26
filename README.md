@@ -1,4 +1,4 @@
-# Java Full Stack Projects 🚀
+# Java Full Stack Projects 
 
 Welcome to my repository!  
 This space showcases the projects I built while learning and applying **Java Full Stack Development**.  
